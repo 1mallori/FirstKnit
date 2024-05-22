@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Mallori Rojas"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,10 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+I attended Valencia High School
+I did graduate.
+I like math better than English.
+
   
 
      
@@ -27,12 +30,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+ I have a HP laptop. I rate myself at a 7. I have spectrum internet, so it is not that great.  
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer 
+
+I prefer to be called Mallori. I do not have any nicknames, so Mallori is fine. 
   
    
  
@@ -69,7 +74,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+I am taking Math 115. I plan to get an A.  My goal is to transfer to a 4 year university to earn my degree in Business Administration
  
 
 
